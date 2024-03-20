@@ -1,0 +1,238 @@
+
+ rect {
+    cursor: pointer;
+}
+ rect:hover {
+    fill: rgb(42, 147, 211);
+}
+
+/* Style for choropleth US Map */
+#bub #map #chart3 #chart4  {
+    margin: auto;
+}
+
+
+/* Mbostock 2 style */
+.link {
+    stroke: steelblue;
+    stroke-opacity: .4;
+    fill: none;
+}
+  /* Apply CSS Grid layout */
+
+
+  .container-fluid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    width: 95%; /* Make the SVG fill the container */
+    height: 50%; /* Maintain aspect ratio */
+}
+
+
+
+/* h3 {
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 20px;
+} */
+
+.x-axis text {
+    font-size: 1rem;
+    transform: rotate(-45deg)
+}
+.y-axis text {
+    font-size: 1rem;
+
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    /* margin: 5rem; Adjust margins as needed */
+    padding:.1rem;
+    background-color: #f2f2f2; /* Light background color */
+    color: #333; /* Dark text color */
+    width: 100%; /* Make the SVG fill the container */
+    height: 50%; /* Maintain aspect ratio */
+  }
+
+.card {
+background-color: #f0f0f0;
+border-radius: 5px;
+padding: 10px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+.card:hover {
+    box-shadow: 10px 10px 8px rgb(31, 117, 69);
+}
+
+ h2{background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 0px 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+h3{
+    text-align: center;
+    color: #007bff;
+    margin-bottom: 5px;
+}
+.header {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    margin-bottom: 20px;
+}
+ text {
+    font-size: 1rem; /* Adjust the font size as needed */
+  }
+h2 {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+    --darkreader-neutral-background: #212222;
+    --darkreader-neutral-text: #eae3d9;
+    --darkreader-selection-background: #165aaa;
+    --darkreader-selection-text: #fbf5ec;
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+    --pink: #e83e8c;
+    --red: #dc3545;
+    --orange: #fd7e14;
+    --yellow: #ffc107;
+    --green: #28a745;
+    --teal: #20c997;
+    --cyan: #17a2b8;
+    --white: #fff;
+    --gray: #6c757d;
+    --gray-dark: #343a40;
+    --primary: #007bff;
+    --secondary: #6c757d;
+    --success: #28a745;
+    --info: #17a2b8;
+    --warning: #ffc107;
+    --danger: #dc3545;
+    --light: #f8f9fa;
+    --dark: #343a40;
+    --breakpoint-xs: 0;
+    --breakpoint-sm: 576px;
+    --breakpoint-md: 768px;
+    --breakpoint-lg: 992px;
+    --breakpoint-xl: 1200px;
+    --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    text-align: left;
+    font-family: "montserrat", Arial, Helvetica, sans-serif;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    color: inherit;
+    background-color: rgba(0,0,0,.03);
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    display: flex!important;
+    justify-content: space-between!important;
+    align-items: center!important;
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
+path {
+    stroke-width: .11rem;
+    font-size: 1rem;
+}
+#selectButton {
+    padding: 2px;
+    margin-top: 1rem;
+    text-align: center;
+}
+
+button {
+    margin-bottom: 1rem;
+    padding: .5rem;
+    display: block;
+    justify-content: space-between;
+    align-items: right;
+    font-weight: bold;
+    width: 30%;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,7,0.2);
+}
+
+#years{
+    padding: .5rem;
+    margin-top: 1rem;
+    text-align: right;
+    float: right;
+}
+
+
+.legend {
+
+   float: right;
+}
+#legend_label{
+   width: 50%;
+   float: right;
+}
+
+
+  /* Style the custom radio button */
+  .radio {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: relative;
+  }
+  
+  /* Style the inner dot of the custom radio button */
+  .radio::after {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%) scale(0);
+    transition: transform 0.2s;
+  }
+
+   svg {
+    width: 95%; /* Make the SVG fill the container */
+    height: 95%; /* Maintain aspect ratio */
+   margin-left: 3rem;
+   margin-bottom: 3rem;
+  }
+
+
+  @media screen and (max-width: 992px) {
+    .container-fluid  {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container-fluid {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .container-fluid  {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+  

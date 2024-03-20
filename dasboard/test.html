@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+    <title>D3.js Chart</title>
+    <!-- D3.js Library -->
+    <script src="https://d3js.org/d3.v7.min.js" charset="utf-8"></script>
+    
+    <!-- Bootstrap CSS -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+ -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/chroma-js/2.1.0/chroma.min.js"></script>
+<link rel="stylesheet" href="style.css">
+ 
+</head>
+<body>
+    <div class="header">
+        <h1>Covid 19 in Numbers by A. Folorunso</h1>
+    </div>
+
+<div class="container-fluid">
+    <div id="panel1">
+            <h3>Bubble Chart</h3>
+            <div class="card">
+                <h2>Overview of Global Covid-19 Fatalities</h2>
+                <div class="cardbody">     
+                <div id="bub">
+                    <button id="selectButton">
+                        <span>Select Continent </span>
+                    </button>
+                    <svg></svg>
+                </div>
+            </div>
+            </div>
+    </div>
+    
+    <div id="panel2">
+            <h3>Chloropleth Map</h3>
+            <div class="card">
+                
+                <h2>Global Effects of the Covid-19 Vaccinations</h2>
+                <div class="cardbody" >
+                    <div class="legend"></div>
+                    <div id="map">
+                    <button id="button2">
+                        <span>Select Continent </span>
+                    </button>
+                        <svg></svg>
+                    </div>  
+                </div>
+            
+            </div>
+    </div>
+       
+    <div id="panel3">
+            <h3>Box Plot</h3>
+            <div class="card">
+                <h2>Statistics of Covid Deaths by Continent</h2>
+                <div id="chart3">
+                    <svg></svg>
+                </div>
+            </div>
+    </div>
+
+    <div id="panel4">
+            <h3>Bar Chart </h3>
+            <div class="card">
+                <h2>Total Admissions by Hospital in England</h2>
+            <div id="chart4">
+                <button id="years">
+                    <span>Select Year </span>
+                </button>
+                <svg></svg>
+            </div>
+        </div>
+    </div>
+</div>
+    <!-- JavaScript Files -->
+   <script src="panel1.js"></script>
+    <script src="map.js"></script>
+    <!-- <script src="box.js"></script> -->
+    <script src="panel4.js"></script>
+</body>
+</html>
+ 

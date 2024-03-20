@@ -1,0 +1,2151 @@
+    [{
+      "continent": "Africa",
+      "location": "Algeria",
+      "Cases": 80890956,
+      "T_Deaths": 2295070,
+      "T_Vaccinations": 211609484,
+      "Fatality": 2.837239308,
+      "Deaths": 0.229507,
+      "Vaccinations": 2.11609484
+    },
+    {
+      "continent": "Africa",
+      "location": "Angola",
+      "Cases": 21277301,
+      "T_Deaths": 506498,
+      "T_Vaccinations": 304199820,
+      "Fatality": 2.380461695,
+      "Deaths": 0.0506498,
+      "Vaccinations": 3.0419982
+    },
+    {
+      "continent": "Africa",
+      "location": "Benin",
+      "Cases": 6498260,
+      "T_Deaths": 57136,
+      "T_Vaccinations": 15755359,
+      "Fatality": 0.879250753,
+      "Deaths": 0.0057136,
+      "Vaccinations": 0.15755359
+    },
+    {
+      "continent": "Africa",
+      "location": "Botswana",
+      "Cases": 51105551,
+      "T_Deaths": 629123,
+      "T_Vaccinations": 18223825,
+      "Fatality": 1.231026743,
+      "Deaths": 0.0629123,
+      "Vaccinations": 0.18223825
+    },
+    {
+      "continent": "Africa",
+      "location": "Burkina Faso",
+      "Cases": 6464041,
+      "T_Deaths": 99564,
+      "T_Vaccinations": 9377185,
+      "Fatality": 1.540274884,
+      "Deaths": 0.0099564,
+      "Vaccinations": 0.09377185
+    },
+    {
+      "continent": "Africa",
+      "location": "Burundi",
+      "Cases": 5441202,
+      "T_Deaths": 9229,
+      "T_Vaccinations": 82857,
+      "Fatality": 0.169613258,
+      "Deaths": 0.0009229,
+      "Vaccinations": 0.00082857
+    },
+    {
+      "continent": "Africa",
+      "location": "Cameroon",
+      "Cases": 37259313,
+      "T_Deaths": 622802,
+      "T_Vaccinations": 19884406,
+      "Fatality": 1.671533772,
+      "Deaths": 0.0622802,
+      "Vaccinations": 0.19884406
+    },
+    {
+      "continent": "Africa",
+      "location": "Cape Verde",
+      "Cases": 14581372,
+      "T_Deaths": 127634,
+      "T_Vaccinations": 14222132,
+      "Fatality": 0.875322295,
+      "Deaths": 0.0127634,
+      "Vaccinations": 0.14222132
+    },
+    {
+      "continent": "Africa",
+      "location": "Central African Republic",
+      "Cases": 4682438,
+      "T_Deaths": 49831,
+      "T_Vaccinations": 6829005,
+      "Fatality": 1.064210567,
+      "Deaths": 0.0049831,
+      "Vaccinations": 0.06829005
+    },
+    {
+      "continent": "Africa",
+      "location": "Chad",
+      "Cases": 2358596,
+      "T_Deaths": 89403,
+      "T_Vaccinations": 5919392,
+      "Fatality": 3.790517749,
+      "Deaths": 0.0089403,
+      "Vaccinations": 0.05919392
+    },
+    {
+      "continent": "Africa",
+      "location": "Comoros",
+      "Cases": 1910678,
+      "T_Deaths": 60029,
+      "T_Vaccinations": 8950080,
+      "Fatality": 3.141764337,
+      "Deaths": 0.0060029,
+      "Vaccinations": 0.0895008
+    },
+    {
+      "continent": "Africa",
+      "location": "Congo",
+      "Cases": 6792631,
+      "T_Deaths": 105501,
+      "T_Vaccinations": 9466554,
+      "Fatality": 1.553168426,
+      "Deaths": 0.0105501,
+      "Vaccinations": 0.09466554
+    },
+    {
+      "continent": "Africa",
+      "location": "Cote d'Ivoire",
+      "Cases": 25664628,
+      "T_Deaths": 209222,
+      "T_Vaccinations": 284821112,
+      "Fatality": 0.815215401,
+      "Deaths": 0.0209222,
+      "Vaccinations": 2.84821112
+    },
+    {
+      "continent": "Africa",
+      "location": "Democratic Republic of Congo",
+      "Cases": 22058169,
+      "T_Deaths": 458229,
+      "T_Vaccinations": 8887535,
+      "Fatality": 2.07736644,
+      "Deaths": 0.0458229,
+      "Vaccinations": 0.08887535
+    },
+    {
+      "continent": "Africa",
+      "location": "Djibouti",
+      "Cases": 5892064,
+      "T_Deaths": 72295,
+      "T_Vaccinations": 1176464,
+      "Fatality": 1.226989388,
+      "Deaths": 0.0072295,
+      "Vaccinations": 0.01176464
+    },
+    {
+      "continent": "Africa",
+      "location": "Egypt",
+      "Cases": 140053370,
+      "T_Deaths": 7886074,
+      "T_Vaccinations": 1486676141,
+      "Fatality": 5.630763473,
+      "Deaths": 0.7886074,
+      "Vaccinations": 14.86676141
+    },
+    {
+      "continent": "Africa",
+      "location": "Equatorial Guinea",
+      "Cases": 5133516,
+      "T_Deaths": 70511,
+      "T_Vaccinations": 22103537,
+      "Fatality": 1.373542032,
+      "Deaths": 0.0070511,
+      "Vaccinations": 0.22103537
+    },
+    {
+      "continent": "Africa",
+      "location": "Eritrea",
+      "Cases": 2442828,
+      "T_Deaths": 15119,
+      "T_Vaccinations": 0,
+      "Fatality": 0.618913816,
+      "Deaths": 0.0015119,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "Africa",
+      "location": "Eswatini",
+      "Cases": 15401221,
+      "T_Deaths": 403923,
+      "T_Vaccinations": 12400764,
+      "Fatality": 2.622668683,
+      "Deaths": 0.0403923,
+      "Vaccinations": 0.12400764
+    },
+    {
+      "continent": "Africa",
+      "location": "Ethiopia",
+      "Cases": 136434310,
+      "T_Deaths": 2174822,
+      "T_Vaccinations": 1261119134,
+      "Fatality": 1.594043317,
+      "Deaths": 0.2174822,
+      "Vaccinations": 12.61119134
+    },
+    {
+      "continent": "Africa",
+      "location": "Gabon",
+      "Cases": 13227770,
+      "T_Deaths": 86449,
+      "T_Vaccinations": 6320121,
+      "Fatality": 0.653541753,
+      "Deaths": 0.0086449,
+      "Vaccinations": 0.06320121
+    },
+    {
+      "continent": "Africa",
+      "location": "Gambia",
+      "Cases": 3766857,
+      "T_Deaths": 119493,
+      "T_Vaccinations": 5757966,
+      "Fatality": 3.172220236,
+      "Deaths": 0.0119493,
+      "Vaccinations": 0.05757966
+    },
+    {
+      "continent": "Africa",
+      "location": "Ghana",
+      "Cases": 54471592,
+      "T_Deaths": 443077,
+      "T_Vaccinations": 83218927,
+      "Fatality": 0.813409309,
+      "Deaths": 0.0443077,
+      "Vaccinations": 0.83218927
+    },
+    {
+      "continent": "Africa",
+      "location": "Guinea",
+      "Cases": 12885273,
+      "T_Deaths": 118657,
+      "T_Vaccinations": 222952592,
+      "Fatality": 0.920873,
+      "Deaths": 0.0118657,
+      "Vaccinations": 2.22952592
+    },
+    {
+      "continent": "Africa",
+      "location": "Guinea-Bissau",
+      "Cases": 2540214,
+      "T_Deaths": 48557,
+      "T_Vaccinations": 10430724,
+      "Fatality": 1.911531863,
+      "Deaths": 0.0048557,
+      "Vaccinations": 0.10430724
+    },
+    {
+      "continent": "Africa",
+      "location": "Kenya",
+      "Cases": 94380208,
+      "T_Deaths": 1778439,
+      "T_Vaccinations": 1258906278,
+      "Fatality": 1.88433469,
+      "Deaths": 0.1778439,
+      "Vaccinations": 12.58906278
+    },
+    {
+      "continent": "Africa",
+      "location": "Lesotho",
+      "Cases": 7101029,
+      "T_Deaths": 187557,
+      "T_Vaccinations": 5258013,
+      "Fatality": 2.64126509,
+      "Deaths": 0.0187557,
+      "Vaccinations": 0.05258013
+    },
+    {
+      "continent": "Africa",
+      "location": "Liberia",
+      "Cases": 2089065,
+      "T_Deaths": 93132,
+      "T_Vaccinations": 7851740,
+      "Fatality": 4.458070955,
+      "Deaths": 0.0093132,
+      "Vaccinations": 0.0785174
+    },
+    {
+      "continent": "Africa",
+      "location": "Libya",
+      "Cases": 117596271,
+      "T_Deaths": 1735702,
+      "T_Vaccinations": 123084649,
+      "Fatality": 1.475983877,
+      "Deaths": 0.1735702,
+      "Vaccinations": 1.23084649
+    },
+    {
+      "continent": "Africa",
+      "location": "Madagascar",
+      "Cases": 19092257,
+      "T_Deaths": 371893,
+      "T_Vaccinations": 8335932,
+      "Fatality": 1.947873423,
+      "Deaths": 0.0371893,
+      "Vaccinations": 0.08335932
+    },
+    {
+      "continent": "Africa",
+      "location": "Malawi",
+      "Cases": 21591768,
+      "T_Deaths": 722606,
+      "T_Vaccinations": 256450975,
+      "Fatality": 3.346673603,
+      "Deaths": 0.0722606,
+      "Vaccinations": 2.56450975
+    },
+    {
+      "continent": "Africa",
+      "location": "Mali",
+      "Cases": 7205339,
+      "T_Deaths": 247706,
+      "T_Vaccinations": 20437970,
+      "Fatality": 3.437811878,
+      "Deaths": 0.0247706,
+      "Vaccinations": 0.2043797
+    },
+    {
+      "continent": "Africa",
+      "location": "Mauritania",
+      "Cases": 13942948,
+      "T_Deaths": 299158,
+      "T_Vaccinations": 56536725,
+      "Fatality": 2.145586428,
+      "Deaths": 0.0299158,
+      "Vaccinations": 0.56536725
+    },
+    {
+      "continent": "Africa",
+      "location": "Mauritius",
+      "Cases": 8575490,
+      "T_Deaths": 85889,
+      "T_Vaccinations": 44543020,
+      "Fatality": 1.001563759,
+      "Deaths": 0.0085889,
+      "Vaccinations": 0.4454302
+    },
+    {
+      "continent": "Africa",
+      "location": "Morocco",
+      "Cases": 335617457,
+      "T_Deaths": 5347437,
+      "T_Vaccinations": 4636675338,
+      "Fatality": 1.593313127,
+      "Deaths": 0.5347437,
+      "Vaccinations": 46.36675338
+    },
+    {
+      "continent": "Africa",
+      "location": "Mozambique",
+      "Cases": 50094598,
+      "T_Deaths": 570509,
+      "T_Vaccinations": 292604984,
+      "Fatality": 1.138863316,
+      "Deaths": 0.0570509,
+      "Vaccinations": 2.92604984
+    },
+    {
+      "continent": "Africa",
+      "location": "Namibia",
+      "Cases": 41506063,
+      "T_Deaths": 939022,
+      "T_Vaccinations": 23739987,
+      "Fatality": 2.26237309,
+      "Deaths": 0.0939022,
+      "Vaccinations": 0.23739987
+    },
+    {
+      "continent": "Africa",
+      "location": "Niger",
+      "Cases": 2820557,
+      "T_Deaths": 105059,
+      "T_Vaccinations": 13089106,
+      "Fatality": 3.724760748,
+      "Deaths": 0.0105059,
+      "Vaccinations": 0.13089106
+    },
+    {
+      "continent": "Africa",
+      "location": "Nigeria",
+      "Cases": 89109064,
+      "T_Deaths": 1208507,
+      "T_Vaccinations": 589884626,
+      "Fatality": 1.356211081,
+      "Deaths": 0.1208507,
+      "Vaccinations": 5.89884626
+    },
+    {
+      "continent": "Africa",
+      "location": "Rwanda",
+      "Cases": 27781072,
+      "T_Deaths": 341116,
+      "T_Vaccinations": 185319056,
+      "Fatality": 1.227871984,
+      "Deaths": 0.0341116,
+      "Vaccinations": 1.85319056
+    },
+    {
+      "continent": "Africa",
+      "location": "Saint Helena",
+      "Cases": 1962,
+      "T_Deaths": 0,
+      "T_Vaccinations": 24233,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0.00024233
+    },
+    {
+      "continent": "Africa",
+      "location": "Sao Tome and Principe",
+      "Cases": 1427556,
+      "T_Deaths": 21174,
+      "T_Vaccinations": 2291309,
+      "Fatality": 1.483234283,
+      "Deaths": 0.0021174,
+      "Vaccinations": 0.02291309
+    },
+    {
+      "continent": "Africa",
+      "location": "Senegal",
+      "Cases": 26476711,
+      "T_Deaths": 644315,
+      "T_Vaccinations": 55103912,
+      "Fatality": 2.433516006,
+      "Deaths": 0.0644315,
+      "Vaccinations": 0.55103912
+    },
+    {
+      "continent": "Africa",
+      "location": "Seychelles",
+      "Cases": 6756087,
+      "T_Deaths": 31521,
+      "T_Vaccinations": 7725179,
+      "Fatality": 0.466557047,
+      "Deaths": 0.0031521,
+      "Vaccinations": 0.07725179
+    },
+    {
+      "continent": "Africa",
+      "location": "Sierra Leone",
+      "Cases": 2733310,
+      "T_Deaths": 58696,
+      "T_Vaccinations": 10435692,
+      "Fatality": 2.147432966,
+      "Deaths": 0.0058696,
+      "Vaccinations": 0.10435692
+    },
+    {
+      "continent": "Africa",
+      "location": "Somalia",
+      "Cases": 7647512,
+      "T_Deaths": 382056,
+      "T_Vaccinations": 23845042,
+      "Fatality": 4.995820863,
+      "Deaths": 0.0382056,
+      "Vaccinations": 0.23845042
+    },
+    {
+      "continent": "Africa",
+      "location": "South Africa",
+      "Cases": 1112008594,
+      "T_Deaths": 32484892,
+      "T_Vaccinations": 3187588678,
+      "Fatality": 2.921280661,
+      "Deaths": 3.2484892,
+      "Vaccinations": 31.87588678
+    },
+    {
+      "continent": "Africa",
+      "location": "South Sudan",
+      "Cases": 5201671,
+      "T_Deaths": 58866,
+      "T_Vaccinations": 5354047,
+      "Fatality": 1.131674802,
+      "Deaths": 0.0058866,
+      "Vaccinations": 0.05354047
+    },
+    {
+      "continent": "Africa",
+      "location": "Sudan",
+      "Cases": 19068002,
+      "T_Deaths": 1312043,
+      "T_Vaccinations": 39877801,
+      "Fatality": 6.880862505,
+      "Deaths": 0.1312043,
+      "Vaccinations": 0.39877801
+    },
+    {
+      "continent": "Africa",
+      "location": "Tanzania",
+      "Cases": 4674501,
+      "T_Deaths": 121009,
+      "T_Vaccinations": 11561245,
+      "Fatality": 2.588704121,
+      "Deaths": 0.0121009,
+      "Vaccinations": 0.11561245
+    },
+    {
+      "continent": "Africa",
+      "location": "Togo",
+      "Cases": 8220118,
+      "T_Deaths": 79755,
+      "T_Vaccinations": 34971004,
+      "Fatality": 0.970241546,
+      "Deaths": 0.0079755,
+      "Vaccinations": 0.34971004
+    },
+    {
+      "continent": "Africa",
+      "location": "Tunisia",
+      "Cases": 225719604,
+      "T_Deaths": 7628159,
+      "T_Vaccinations": 1846105327,
+      "Fatality": 3.379484486,
+      "Deaths": 0.7628159,
+      "Vaccinations": 18.46105327
+    },
+    {
+      "continent": "Africa",
+      "location": "Uganda",
+      "Cases": 39951575,
+      "T_Deaths": 818874,
+      "T_Vaccinations": 159118993,
+      "Fatality": 2.049666377,
+      "Deaths": 0.0818874,
+      "Vaccinations": 1.59118993
+    },
+    {
+      "continent": "Africa",
+      "location": "Zambia",
+      "Cases": 71129359,
+      "T_Deaths": 1112743,
+      "T_Vaccinations": 151811301,
+      "Fatality": 1.564393403,
+      "Deaths": 0.1112743,
+      "Vaccinations": 1.51811301
+    },
+    {
+      "continent": "Africa",
+      "location": "Zimbabwe",
+      "Cases": 43693567,
+      "T_Deaths": 1351590,
+      "T_Vaccinations": 1311140540,
+      "Fatality": 3.09333866,
+      "Deaths": 0.135159,
+      "Vaccinations": 13.1114054
+    },
+    {
+      "continent": "Asia",
+      "location": "Afghanistan",
+      "Cases": 56851451,
+      "T_Deaths": 2476423,
+      "T_Vaccinations": 95426881,
+      "Fatality": 4.355953905,
+      "Deaths": 0.2476423,
+      "Vaccinations": 0.95426881
+    },
+    {
+      "continent": "Asia",
+      "location": "Armenia",
+      "Cases": 120869816,
+      "T_Deaths": 2423250,
+      "T_Vaccinations": 28869940,
+      "Fatality": 2.004842963,
+      "Deaths": 0.242325,
+      "Vaccinations": 0.2886994
+    },
+    {
+      "continent": "Asia",
+      "location": "Azerbaijan",
+      "Cases": 186715591,
+      "T_Deaths": 2524527,
+      "T_Vaccinations": 2057436541,
+      "Fatality": 1.352070808,
+      "Deaths": 0.2524527,
+      "Vaccinations": 20.57436541
+    },
+    {
+      "continent": "Asia",
+      "location": "Bahrain",
+      "Cases": 112761413,
+      "T_Deaths": 494669,
+      "T_Vaccinations": 768584770,
+      "Fatality": 0.438686415,
+      "Deaths": 0.0494669,
+      "Vaccinations": 7.6858477
+    },
+    {
+      "continent": "Asia",
+      "location": "Bangladesh",
+      "Cases": 550992392,
+      "T_Deaths": 8995800,
+      "T_Vaccinations": 8277161032,
+      "Fatality": 1.632654122,
+      "Deaths": 0.89958,
+      "Vaccinations": 82.77161032
+    },
+    {
+      "continent": "Asia",
+      "location": "Bhutan",
+      "Cases": 1003925,
+      "T_Deaths": 877,
+      "T_Vaccinations": 71134129,
+      "Fatality": 0.087357123,
+      "Deaths": 0.0000877,
+      "Vaccinations": 0.71134129
+    },
+    {
+      "continent": "Asia",
+      "location": "Brunei",
+      "Cases": 2537900,
+      "T_Deaths": 15570,
+      "T_Vaccinations": 57728363,
+      "Fatality": 0.61349935,
+      "Deaths": 0.001557,
+      "Vaccinations": 0.57728363
+    },
+    {
+      "continent": "Asia",
+      "location": "Cambodia",
+      "Cases": 27466222,
+      "T_Deaths": 586887,
+      "T_Vaccinations": 5853716580,
+      "Fatality": 2.136759107,
+      "Deaths": 0.0586887,
+      "Vaccinations": 58.5371658
+    },
+    {
+      "continent": "Asia",
+      "location": "China",
+      "Cases": 67154220,
+      "T_Deaths": 3341606,
+      "T_Vaccinations": 600987000000,
+      "Fatality": 4.976017888,
+      "Deaths": 0.3341606,
+      "Vaccinations": 6009.870807
+    },
+    {
+      "continent": "Asia",
+      "location": "Georgia",
+      "Cases": 243212772,
+      "T_Deaths": 3248322,
+      "T_Vaccinations": 286683037,
+      "Fatality": 1.335588577,
+      "Deaths": 0.3248322,
+      "Vaccinations": 2.86683037
+    },
+    {
+      "continent": "Asia",
+      "location": "Hong Kong",
+      "Cases": 6113669,
+      "T_Deaths": 103251,
+      "T_Vaccinations": 2201203240,
+      "Fatality": 1.688854925,
+      "Deaths": 0.0103251,
+      "Vaccinations": 22.0120324
+    },
+    {
+      "continent": "Asia",
+      "location": "India",
+      "Cases": 12445466512,
+      "T_Deaths": 165325079,
+      "T_Vaccinations": 262240000000,
+      "Fatality": 1.328395997,
+      "Deaths": 16.5325079,
+      "Vaccinations": 2622.397806
+    },
+    {
+      "continent": "Asia",
+      "location": "Indonesia",
+      "Cases": 1291507778,
+      "T_Deaths": 40581034,
+      "T_Vaccinations": 30236880806,
+      "Fatality": 3.142143988,
+      "Deaths": 4.0581034,
+      "Vaccinations": 302.3688081
+    },
+    {
+      "continent": "Asia",
+      "location": "Iran",
+      "Cases": 1805512406,
+      "T_Deaths": 46505237,
+      "T_Vaccinations": 7244825107,
+      "Fatality": 2.57573622,
+      "Deaths": 4.6505237,
+      "Vaccinations": 72.44825107
+    },
+    {
+      "continent": "Asia",
+      "location": "Iraq",
+      "Cases": 695548875,
+      "T_Deaths": 9557581,
+      "T_Vaccinations": 431298659,
+      "Fatality": 1.374106313,
+      "Deaths": 0.9557581,
+      "Vaccinations": 4.31298659
+    },
+    {
+      "continent": "Asia",
+      "location": "Israel",
+      "Cases": 532595202,
+      "T_Deaths": 3235760,
+      "T_Vaccinations": 5128987435,
+      "Fatality": 0.607545841,
+      "Deaths": 0.323576,
+      "Vaccinations": 51.28987435
+    },
+    {
+      "continent": "Asia",
+      "location": "Japan",
+      "Cases": 535183642,
+      "T_Deaths": 6217995,
+      "T_Vaccinations": 25267630732,
+      "Fatality": 1.161843246,
+      "Deaths": 0.6217995,
+      "Vaccinations": 252.6763073
+    },
+    {
+      "continent": "Asia",
+      "location": "Jordan",
+      "Cases": 338922275,
+      "T_Deaths": 4118238,
+      "T_Vaccinations": 1155235551,
+      "Fatality": 1.215098063,
+      "Deaths": 0.4118238,
+      "Vaccinations": 11.55235551
+    },
+    {
+      "continent": "Asia",
+      "location": "Kazakhstan",
+      "Cases": 315936774,
+      "T_Deaths": 4939962,
+      "T_Vaccinations": 3439025785,
+      "Fatality": 1.563591961,
+      "Deaths": 0.4939962,
+      "Vaccinations": 34.39025785
+    },
+    {
+      "continent": "Asia",
+      "location": "Kuwait",
+      "Cases": 166896851,
+      "T_Deaths": 953510,
+      "T_Vaccinations": 168237199,
+      "Fatality": 0.571316951,
+      "Deaths": 0.095351,
+      "Vaccinations": 1.68237199
+    },
+    {
+      "continent": "Asia",
+      "location": "Kyrgyzstan",
+      "Cases": 68699656,
+      "T_Deaths": 1114075,
+      "T_Vaccinations": 353887159,
+      "Fatality": 1.621660231,
+      "Deaths": 0.1114075,
+      "Vaccinations": 3.53887159
+    },
+    {
+      "continent": "Asia",
+      "location": "Laos",
+      "Cases": 13738601,
+      "T_Deaths": 42145,
+      "T_Vaccinations": 178785923,
+      "Fatality": 0.306763403,
+      "Deaths": 0.0042145,
+      "Vaccinations": 1.78785923
+    },
+    {
+      "continent": "Asia",
+      "location": "Lebanon",
+      "Cases": 252263810,
+      "T_Deaths": 3160777,
+      "T_Vaccinations": 812153736,
+      "Fatality": 1.252964902,
+      "Deaths": 0.3160777,
+      "Vaccinations": 8.12153736
+    },
+    {
+      "continent": "Asia",
+      "location": "Macao",
+      "Cases": 39219,
+      "T_Deaths": 0,
+      "T_Vaccinations": 119152136,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 1.19152136
+    },
+    {
+      "continent": "Asia",
+      "location": "Malaysia",
+      "Cases": 599281538,
+      "T_Deaths": 6064545,
+      "T_Vaccinations": 10983325867,
+      "Fatality": 1.011969269,
+      "Deaths": 0.6064545,
+      "Vaccinations": 109.8332587
+    },
+    {
+      "continent": "Asia",
+      "location": "Maldives",
+      "Cases": 30310049,
+      "T_Deaths": 80806,
+      "T_Vaccinations": 169677356,
+      "Fatality": 0.266598051,
+      "Deaths": 0.0080806,
+      "Vaccinations": 1.69677356
+    },
+    {
+      "continent": "Asia",
+      "location": "Mongolia",
+      "Cases": 122662135,
+      "T_Deaths": 383509,
+      "T_Vaccinations": 981726644,
+      "Fatality": 0.312654757,
+      "Deaths": 0.0383509,
+      "Vaccinations": 9.81726644
+    },
+    {
+      "continent": "Asia",
+      "location": "Myanmar",
+      "Cases": 139378408,
+      "T_Deaths": 4566842,
+      "T_Vaccinations": 643590867,
+      "Fatality": 3.276577818,
+      "Deaths": 0.4566842,
+      "Vaccinations": 6.43590867
+    },
+    {
+      "continent": "Asia",
+      "location": "Nepal",
+      "Cases": 277911740,
+      "T_Deaths": 3478322,
+      "T_Vaccinations": 1339274517,
+      "Fatality": 1.251592322,
+      "Deaths": 0.3478322,
+      "Vaccinations": 13.39274517
+    },
+    {
+      "continent": "Asia",
+      "location": "Oman",
+      "Cases": 123874900,
+      "T_Deaths": 1473247,
+      "T_Vaccinations": 111822009,
+      "Fatality": 1.189302272,
+      "Deaths": 0.1473247,
+      "Vaccinations": 1.11822009
+    },
+    {
+      "continent": "Asia",
+      "location": "Pakistan",
+      "Cases": 490355939,
+      "T_Deaths": 10724636,
+      "T_Vaccinations": 13942081481,
+      "Fatality": 2.187112493,
+      "Deaths": 1.0724636,
+      "Vaccinations": 139.4208148
+    },
+    {
+      "continent": "Asia",
+      "location": "Palestine",
+      "Cases": 153379027,
+      "T_Deaths": 1602059,
+      "T_Vaccinations": 182728422,
+      "Fatality": 1.044509821,
+      "Deaths": 0.1602059,
+      "Vaccinations": 1.82728422
+    },
+    {
+      "continent": "Asia",
+      "location": "Philippines",
+      "Cases": 815110381,
+      "T_Deaths": 13760380,
+      "T_Vaccinations": 8309058697,
+      "Fatality": 1.688161545,
+      "Deaths": 1.376038,
+      "Vaccinations": 83.09058697
+    },
+    {
+      "continent": "Asia",
+      "location": "Qatar",
+      "Cases": 120426661,
+      "T_Deaths": 255071,
+      "T_Vaccinations": 1165033645,
+      "Fatality": 0.211806088,
+      "Deaths": 0.0255071,
+      "Vaccinations": 11.65033645
+    },
+    {
+      "continent": "Asia",
+      "location": "Saudi Arabia",
+      "Cases": 273129558,
+      "T_Deaths": 4165042,
+      "T_Vaccinations": 10608775174,
+      "Fatality": 1.524932721,
+      "Deaths": 0.4165042,
+      "Vaccinations": 106.0877517
+    },
+    {
+      "continent": "Asia",
+      "location": "Singapore",
+      "Cases": 70242387,
+      "T_Deaths": 113189,
+      "T_Vaccinations": 2542925924,
+      "Fatality": 0.161140594,
+      "Deaths": 0.0113189,
+      "Vaccinations": 25.42925924
+    },
+    {
+      "continent": "Asia",
+      "location": "South Korea",
+      "Cases": 142188333,
+      "T_Deaths": 1293910,
+      "T_Vaccinations": 17746960926,
+      "Fatality": 0.909997306,
+      "Deaths": 0.129391,
+      "Vaccinations": 177.4696093
+    },
+    {
+      "continent": "Asia",
+      "location": "Sri Lanka",
+      "Cases": 141527367,
+      "T_Deaths": 2952374,
+      "T_Vaccinations": 5718203460,
+      "Fatality": 2.086079931,
+      "Deaths": 0.2952374,
+      "Vaccinations": 57.1820346
+    },
+    {
+      "continent": "Asia",
+      "location": "Syria",
+      "Cases": 13741992,
+      "T_Deaths": 867624,
+      "T_Vaccinations": 25801200,
+      "Fatality": 6.313669809,
+      "Deaths": 0.0867624,
+      "Vaccinations": 0.258012
+    },
+    {
+      "continent": "Asia",
+      "location": "Taiwan",
+      "Cases": 4716503,
+      "T_Deaths": 214848,
+      "T_Vaccinations": 4284892056,
+      "Fatality": 4.555239337,
+      "Deaths": 0.0214848,
+      "Vaccinations": 42.84892056
+    },
+    {
+      "continent": "Asia",
+      "location": "Tajikistan",
+      "Cases": 8528367,
+      "T_Deaths": 61716,
+      "T_Vaccinations": 141385389,
+      "Fatality": 0.723655537,
+      "Deaths": 0.0061716,
+      "Vaccinations": 1.41385389
+    },
+    {
+      "continent": "Asia",
+      "location": "Thailand",
+      "Cases": 412404109,
+      "T_Deaths": 3899622,
+      "T_Vaccinations": 15733406935,
+      "Fatality": 0.945582722,
+      "Deaths": 0.3899622,
+      "Vaccinations": 157.3340694
+    },
+    {
+      "continent": "Asia",
+      "location": "Timor",
+      "Cases": 4653490,
+      "T_Deaths": 23590,
+      "T_Vaccinations": 26311625,
+      "Fatality": 0.506931357,
+      "Deaths": 0.002359,
+      "Vaccinations": 0.26311625
+    },
+    {
+      "continent": "Asia",
+      "location": "Turkey",
+      "Cases": 2744349469,
+      "T_Deaths": 24937463,
+      "T_Vaccinations": 28952247781,
+      "Fatality": 0.908683944,
+      "Deaths": 2.4937463,
+      "Vaccinations": 289.5224778
+    },
+    {
+      "continent": "Asia",
+      "location": "United Arab Emirates",
+      "Cases": 280119777,
+      "T_Deaths": 843638,
+      "T_Vaccinations": 5202798869,
+      "Fatality": 0.301170453,
+      "Deaths": 0.0843638,
+      "Vaccinations": 52.02798869
+    },
+    {
+      "continent": "Asia",
+      "location": "Uzbekistan",
+      "Cases": 67823949,
+      "T_Deaths": 492236,
+      "T_Vaccinations": 2666848983,
+      "Fatality": 0.725755441,
+      "Deaths": 0.0492236,
+      "Vaccinations": 26.66848983
+    },
+    {
+      "continent": "Asia",
+      "location": "Vietnam",
+      "Cases": 256463712,
+      "T_Deaths": 4934276,
+      "T_Vaccinations": 13758862257,
+      "Fatality": 1.923966538,
+      "Deaths": 0.4934276,
+      "Vaccinations": 137.5886226
+    },
+    {
+      "continent": "Asia",
+      "location": "Yemen",
+      "Cases": 3374408,
+      "T_Deaths": 699525,
+      "T_Vaccinations": 8954613,
+      "Fatality": 20.73030292,
+      "Deaths": 0.0699525,
+      "Vaccinations": 0.08954613
+    },
+    {
+      "continent": "Europe",
+      "location": "Albania",
+      "Cases": 68186517,
+      "T_Deaths": 1139419,
+      "T_Vaccinations": 276448717,
+      "Fatality": 1.671032706,
+      "Deaths": 0.1139419,
+      "Vaccinations": 2.76448717
+    },
+    {
+      "continent": "Europe",
+      "location": "Andorra",
+      "Cases": 7552401,
+      "T_Deaths": 67964,
+      "T_Vaccinations": 2001942,
+      "Fatality": 0.899899251,
+      "Deaths": 0.0067964,
+      "Vaccinations": 0.02001942
+    },
+    {
+      "continent": "Europe",
+      "location": "Austria",
+      "Cases": 370826379,
+      "T_Deaths": 4886919,
+      "T_Vaccinations": 487591278,
+      "Fatality": 1.317845568,
+      "Deaths": 0.4886919,
+      "Vaccinations": 4.87591278
+    },
+    {
+      "continent": "Europe",
+      "location": "Belarus",
+      "Cases": 220240505,
+      "T_Deaths": 1689428,
+      "T_Vaccinations": 165009474,
+      "Fatality": 0.767083239,
+      "Deaths": 0.1689428,
+      "Vaccinations": 1.65009474
+    },
+    {
+      "continent": "Europe",
+      "location": "Belgium",
+      "Cases": 623571982,
+      "T_Deaths": 13447611,
+      "T_Vaccinations": 4956283761,
+      "Fatality": 2.156545096,
+      "Deaths": 1.3447611,
+      "Vaccinations": 49.56283761
+    },
+    {
+      "continent": "Europe",
+      "location": "Bosnia and Herzegovina",
+      "Cases": 99807234,
+      "T_Deaths": 4286604,
+      "T_Vaccinations": 13550064,
+      "Fatality": 4.294883074,
+      "Deaths": 0.4286604,
+      "Vaccinations": 0.13550064
+    },
+    {
+      "continent": "Europe",
+      "location": "Bulgaria",
+      "Cases": 219626988,
+      "T_Deaths": 8689835,
+      "T_Vaccinations": 788148004,
+      "Fatality": 3.956633508,
+      "Deaths": 0.8689835,
+      "Vaccinations": 7.88148004
+    },
+    {
+      "continent": "Europe",
+      "location": "Croatia",
+      "Cases": 195062915,
+      "T_Deaths": 3748742,
+      "T_Vaccinations": 966206091,
+      "Fatality": 1.92181174,
+      "Deaths": 0.3748742,
+      "Vaccinations": 9.66206091
+    },
+    {
+      "continent": "Europe",
+      "location": "Cyprus",
+      "Cases": 45495664,
+      "T_Deaths": 192572,
+      "T_Vaccinations": 161710572,
+      "Fatality": 0.423275502,
+      "Deaths": 0.0192572,
+      "Vaccinations": 1.61710572
+    },
+    {
+      "continent": "Europe",
+      "location": "Czechia",
+      "Cases": 788945368,
+      "T_Deaths": 12738650,
+      "T_Vaccinations": 3575297830,
+      "Fatality": 1.614642853,
+      "Deaths": 1.273865,
+      "Vaccinations": 35.7529783
+    },
+    {
+      "continent": "Europe",
+      "location": "Denmark",
+      "Cases": 214516130,
+      "T_Deaths": 1296323,
+      "T_Vaccinations": 2582834963,
+      "Fatality": 0.604300945,
+      "Deaths": 0.1296323,
+      "Vaccinations": 25.82834963
+    },
+    {
+      "continent": "Europe",
+      "location": "Estonia",
+      "Cases": 67716137,
+      "T_Deaths": 556655,
+      "T_Vaccinations": 418774201,
+      "Fatality": 0.822041872,
+      "Deaths": 0.0556655,
+      "Vaccinations": 4.18774201
+    },
+    {
+      "continent": "Europe",
+      "location": "Faeroe Islands",
+      "Cases": 1565171,
+      "T_Deaths": 2060,
+      "T_Vaccinations": 8612023,
+      "Fatality": 0.131615012,
+      "Deaths": 0.000206,
+      "Vaccinations": 0.08612023
+    },
+    {
+      "continent": "Europe",
+      "location": "Finland",
+      "Cases": 68846795,
+      "T_Deaths": 573806,
+      "T_Vaccinations": 720564185,
+      "Fatality": 0.833453467,
+      "Deaths": 0.0573806,
+      "Vaccinations": 7.20564185
+    },
+    {
+      "continent": "Europe",
+      "location": "France",
+      "Cases": 3280438871,
+      "T_Deaths": 54648979,
+      "T_Vaccinations": 27364293907,
+      "Fatality": 1.665904507,
+      "Deaths": 5.4648979,
+      "Vaccinations": 273.6429391
+    },
+    {
+      "continent": "Europe",
+      "location": "Germany",
+      "Cases": 2040620316,
+      "T_Deaths": 40263034,
+      "T_Vaccinations": 32993626643,
+      "Fatality": 1.973078171,
+      "Deaths": 4.0263034,
+      "Vaccinations": 329.9362664
+    },
+    {
+      "continent": "Europe",
+      "location": "Gibraltar",
+      "Cases": 2615931,
+      "T_Deaths": 38535,
+      "T_Vaccinations": 15794574,
+      "Fatality": 1.473089313,
+      "Deaths": 0.0038535,
+      "Vaccinations": 0.15794574
+    },
+    {
+      "continent": "Europe",
+      "location": "Greece",
+      "Cases": 286712427,
+      "T_Deaths": 5857559,
+      "T_Vaccinations": 3730351982,
+      "Fatality": 2.043008411,
+      "Deaths": 0.5857559,
+      "Vaccinations": 37.30351982
+    },
+    {
+      "continent": "Europe",
+      "location": "Hungary",
+      "Cases": 372788017,
+      "T_Deaths": 12315193,
+      "T_Vaccinations": 711551392,
+      "Fatality": 3.303537785,
+      "Deaths": 1.2315193,
+      "Vaccinations": 7.11551392
+    },
+    {
+      "continent": "Europe",
+      "location": "Iceland",
+      "Cases": 7805182,
+      "T_Deaths": 17520,
+      "T_Vaccinations": 47919768,
+      "Fatality": 0.224466258,
+      "Deaths": 0.001752,
+      "Vaccinations": 0.47919768
+    },
+    {
+      "continent": "Europe",
+      "location": "Ireland",
+      "Cases": 190997520,
+      "T_Deaths": 2551888,
+      "T_Vaccinations": 2122601349,
+      "Fatality": 1.336084364,
+      "Deaths": 0.2551888,
+      "Vaccinations": 21.22601349
+    },
+    {
+      "continent": "Europe",
+      "location": "Isle of Man",
+      "Cases": 2853748,
+      "T_Deaths": 23873,
+      "T_Vaccinations": 24144600,
+      "Fatality": 0.836548988,
+      "Deaths": 0.0023873,
+      "Vaccinations": 0.241446
+    },
+    {
+      "continent": "Europe",
+      "location": "Italy",
+      "Cases": 2185352064,
+      "T_Deaths": 62028601,
+      "T_Vaccinations": 25125456529,
+      "Fatality": 2.838380233,
+      "Deaths": 6.2028601,
+      "Vaccinations": 251.2545653
+    },
+    {
+      "continent": "Europe",
+      "location": "Kosovo",
+      "Cases": 56389872,
+      "T_Deaths": 1120246,
+      "T_Vaccinations": 252938531,
+      "Fatality": 1.986608517,
+      "Deaths": 0.1120246,
+      "Vaccinations": 2.52938531
+    },
+    {
+      "continent": "Europe",
+      "location": "Latvia",
+      "Cases": 75340097,
+      "T_Deaths": 1191400,
+      "T_Vaccinations": 528972947,
+      "Fatality": 1.581362445,
+      "Deaths": 0.11914,
+      "Vaccinations": 5.28972947
+    },
+    {
+      "continent": "Europe",
+      "location": "Liechtenstein",
+      "Cases": 1791211,
+      "T_Deaths": 26276,
+      "T_Vaccinations": 13977786,
+      "Fatality": 1.466940522,
+      "Deaths": 0.0026276,
+      "Vaccinations": 0.13977786
+    },
+    {
+      "continent": "Europe",
+      "location": "Lithuania",
+      "Cases": 148694591,
+      "T_Deaths": 2112972,
+      "T_Vaccinations": 958085528,
+      "Fatality": 1.421014703,
+      "Deaths": 0.2112972,
+      "Vaccinations": 9.58085528
+    },
+    {
+      "continent": "Europe",
+      "location": "Luxembourg",
+      "Cases": 37198879,
+      "T_Deaths": 378770,
+      "T_Vaccinations": 225757148,
+      "Fatality": 1.018229608,
+      "Deaths": 0.037877,
+      "Vaccinations": 2.25757148
+    },
+    {
+      "continent": "Europe",
+      "location": "Malta",
+      "Cases": 15915109,
+      "T_Deaths": 187783,
+      "T_Vaccinations": 254926016,
+      "Fatality": 1.179903952,
+      "Deaths": 0.0187783,
+      "Vaccinations": 2.54926016
+    },
+    {
+      "continent": "Europe",
+      "location": "Moldova",
+      "Cases": 130863704,
+      "T_Deaths": 3104895,
+      "T_Vaccinations": 257468418,
+      "Fatality": 2.372617391,
+      "Deaths": 0.3104895,
+      "Vaccinations": 2.57468418
+    },
+    {
+      "continent": "Europe",
+      "location": "Monaco",
+      "Cases": 1477870,
+      "T_Deaths": 14181,
+      "T_Vaccinations": 867304,
+      "Fatality": 0.959556659,
+      "Deaths": 0.0014181,
+      "Vaccinations": 0.00867304
+    },
+    {
+      "continent": "Europe",
+      "location": "Montenegro",
+      "Cases": 53600191,
+      "T_Deaths": 763609,
+      "T_Vaccinations": 118100965,
+      "Fatality": 1.42463858,
+      "Deaths": 0.0763609,
+      "Vaccinations": 1.18100965
+    },
+    {
+      "continent": "Europe",
+      "location": "Netherlands",
+      "Cases": 924029478,
+      "T_Deaths": 9280868,
+      "T_Vaccinations": 980730500,
+      "Fatality": 1.004390901,
+      "Deaths": 0.9280868,
+      "Vaccinations": 9.807305
+    },
+    {
+      "continent": "Europe",
+      "location": "North Macedonia",
+      "Cases": 77485340,
+      "T_Deaths": 2586299,
+      "T_Vaccinations": 120812808,
+      "Fatality": 3.337791381,
+      "Deaths": 0.2586299,
+      "Vaccinations": 1.20812808
+    },
+    {
+      "continent": "Europe",
+      "location": "Norway",
+      "Cases": 99071869,
+      "T_Deaths": 439587,
+      "T_Vaccinations": 2177942971,
+      "Fatality": 0.443705165,
+      "Deaths": 0.0439587,
+      "Vaccinations": 21.77942971
+    },
+    {
+      "continent": "Europe",
+      "location": "Poland",
+      "Cases": 1306204048,
+      "T_Deaths": 31456441,
+      "T_Vaccinations": 9630780517,
+      "Fatality": 2.408233311,
+      "Deaths": 3.1456441,
+      "Vaccinations": 96.30780517
+    },
+    {
+      "continent": "Europe",
+      "location": "Portugal",
+      "Cases": 495693767,
+      "T_Deaths": 7756726,
+      "T_Vaccinations": 3452036815,
+      "Fatality": 1.564822178,
+      "Deaths": 0.7756726,
+      "Vaccinations": 34.52036815
+    },
+    {
+      "continent": "Europe",
+      "location": "Romania",
+      "Cases": 580115738,
+      "T_Deaths": 16773155,
+      "T_Vaccinations": 3654163148,
+      "Fatality": 2.891346313,
+      "Deaths": 1.6773155,
+      "Vaccinations": 36.54163148
+    },
+    {
+      "continent": "Europe",
+      "location": "Russia",
+      "Cases": 3162063549,
+      "T_Deaths": 78512362,
+      "T_Vaccinations": 24332788004,
+      "Fatality": 2.482946999,
+      "Deaths": 7.8512362,
+      "Vaccinations": 243.32788
+    },
+    {
+      "continent": "Europe",
+      "location": "San Marino",
+      "Cases": 2694664,
+      "T_Deaths": 49130,
+      "T_Vaccinations": 3662729,
+      "Fatality": 1.823232878,
+      "Deaths": 0.004913,
+      "Vaccinations": 0.03662729
+    },
+    {
+      "continent": "Europe",
+      "location": "Serbia",
+      "Cases": 384370667,
+      "T_Deaths": 3579787,
+      "T_Vaccinations": 1016897150,
+      "Fatality": 0.931337198,
+      "Deaths": 0.3579787,
+      "Vaccinations": 10.1689715
+    },
+    {
+      "continent": "Europe",
+      "location": "Slovakia",
+      "Cases": 380520182,
+      "T_Deaths": 5079167,
+      "T_Vaccinations": 219462511,
+      "Fatality": 1.334795693,
+      "Deaths": 0.5079167,
+      "Vaccinations": 2.19462511
+    },
+    {
+      "continent": "Europe",
+      "location": "Slovenia",
+      "Cases": 139365395,
+      "T_Deaths": 2020428,
+      "T_Vaccinations": 635797342,
+      "Fatality": 1.449734348,
+      "Deaths": 0.2020428,
+      "Vaccinations": 6.35797342
+    },
+    {
+      "continent": "Europe",
+      "location": "Spain",
+      "Cases": 2164415765,
+      "T_Deaths": 42399410,
+      "T_Vaccinations": 12934247871,
+      "Fatality": 1.958930936,
+      "Deaths": 4.239941,
+      "Vaccinations": 129.3424787
+    },
+    {
+      "continent": "Europe",
+      "location": "Sweden",
+      "Cases": 495009548,
+      "T_Deaths": 7403070,
+      "T_Vaccinations": 634640120,
+      "Fatality": 1.49554085,
+      "Deaths": 0.740307,
+      "Vaccinations": 6.3464012
+    },
+    {
+      "continent": "Europe",
+      "location": "Switzerland",
+      "Cases": 409896750,
+      "T_Deaths": 5261735,
+      "T_Vaccinations": 3164849764,
+      "Fatality": 1.283673266,
+      "Deaths": 0.5261735,
+      "Vaccinations": 31.64849764
+    },
+    {
+      "continent": "Europe",
+      "location": "Ukraine",
+      "Cases": 1136347284,
+      "T_Deaths": 26425316,
+      "T_Vaccinations": 4357666978,
+      "Fatality": 2.325461272,
+      "Deaths": 2.6425316,
+      "Vaccinations": 43.57666978
+    },
+    {
+      "continent": "Europe",
+      "location": "United Kingdom",
+      "Cases": 3301124622,
+      "T_Deaths": 66633387,
+      "T_Vaccinations": 32220292487,
+      "Fatality": 2.01850565,
+      "Deaths": 6.6633387,
+      "Vaccinations": 322.2029249
+    },
+    {
+      "continent": "Europe",
+      "location": "Vatican",
+      "Cases": 15816,
+      "T_Deaths": 0,
+      "T_Vaccinations": 0,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "North America",
+      "location": "Anguilla",
+      "Cases": 251837,
+      "T_Deaths": 652,
+      "T_Vaccinations": 649208,
+      "Fatality": 0.25889762,
+      "Deaths": 0.0000652,
+      "Vaccinations": 0.00649208
+    },
+    {
+      "continent": "North America",
+      "location": "Antigua and Barbuda",
+      "Cases": 1045269,
+      "T_Deaths": 26305,
+      "T_Vaccinations": 6465262,
+      "Fatality": 2.516577073,
+      "Deaths": 0.0026305,
+      "Vaccinations": 0.06465262
+    },
+    {
+      "continent": "North America",
+      "location": "Aruba",
+      "Cases": 6610413,
+      "T_Deaths": 58147,
+      "T_Vaccinations": 34487071,
+      "Fatality": 0.879627339,
+      "Deaths": 0.0058147,
+      "Vaccinations": 0.34487071
+    },
+    {
+      "continent": "North America",
+      "location": "Bahamas",
+      "Cases": 7806700,
+      "T_Deaths": 186292,
+      "T_Vaccinations": 7201795,
+      "Fatality": 2.386309196,
+      "Deaths": 0.0186292,
+      "Vaccinations": 0.07201795
+    },
+    {
+      "continent": "North America",
+      "location": "Barbados",
+      "Cases": 5245939,
+      "T_Deaths": 45167,
+      "T_Vaccinations": 66333670,
+      "Fatality": 0.860989806,
+      "Deaths": 0.0045167,
+      "Vaccinations": 0.6633367
+    },
+    {
+      "continent": "North America",
+      "location": "Belize",
+      "Cases": 9393169,
+      "T_Deaths": 182665,
+      "T_Vaccinations": 19240963,
+      "Fatality": 1.944657868,
+      "Deaths": 0.0182665,
+      "Vaccinations": 0.19240963
+    },
+    {
+      "continent": "North America",
+      "location": "Bermuda",
+      "Cases": 1660056,
+      "T_Deaths": 24715,
+      "T_Vaccinations": 3882379,
+      "Fatality": 1.488805197,
+      "Deaths": 0.0024715,
+      "Vaccinations": 0.03882379
+    },
+    {
+      "continent": "North America",
+      "location": "Bonaire Sint Eustatius and Saba",
+      "Cases": 891488,
+      "T_Deaths": 6660,
+      "T_Vaccinations": 43236,
+      "Fatality": 0.74706558,
+      "Deaths": 0.000666,
+      "Vaccinations": 0.00043236
+    },
+    {
+      "continent": "North America",
+      "location": "British Virgin Islands",
+      "Cases": 796808,
+      "T_Deaths": 9213,
+      "T_Vaccinations": 995344,
+      "Fatality": 1.156238391,
+      "Deaths": 0.0009213,
+      "Vaccinations": 0.00995344
+    },
+    {
+      "continent": "North America",
+      "location": "Canada",
+      "Cases": 694214682,
+      "T_Deaths": 13471239,
+      "T_Vaccinations": 16189361969,
+      "Fatality": 1.940500446,
+      "Deaths": 1.3471239,
+      "Vaccinations": 161.8936197
+    },
+    {
+      "continent": "North America",
+      "location": "Cayman Islands",
+      "Cases": 1377561,
+      "T_Deaths": 2118,
+      "T_Vaccinations": 8498839,
+      "Fatality": 0.153749997,
+      "Deaths": 0.0002118,
+      "Vaccinations": 0.08498839
+    },
+    {
+      "continent": "North America",
+      "location": "Costa Rica",
+      "Cases": 187065235,
+      "T_Deaths": 2304419,
+      "T_Vaccinations": 216487479,
+      "Fatality": 1.231879884,
+      "Deaths": 0.2304419,
+      "Vaccinations": 2.16487479
+    },
+    {
+      "continent": "North America",
+      "location": "Cuba",
+      "Cases": 207098913,
+      "T_Deaths": 1710868,
+      "T_Vaccinations": 5280845812,
+      "Fatality": 0.826111531,
+      "Deaths": 0.1710868,
+      "Vaccinations": 52.80845812
+    },
+    {
+      "continent": "North America",
+      "location": "Curacao",
+      "Cases": 6514642,
+      "T_Deaths": 53474,
+      "T_Vaccinations": 45517395,
+      "Fatality": 0.820827913,
+      "Deaths": 0.0053474,
+      "Vaccinations": 0.45517395
+    },
+    {
+      "continent": "North America",
+      "location": "Dominica",
+      "Cases": 1118474,
+      "T_Deaths": 6227,
+      "T_Vaccinations": 2834979,
+      "Fatality": 0.556740702,
+      "Deaths": 0.0006227,
+      "Vaccinations": 0.02834979
+    },
+    {
+      "continent": "North America",
+      "location": "Dominican Republic",
+      "Cases": 163207324,
+      "T_Deaths": 1944168,
+      "T_Vaccinations": 3159794950,
+      "Fatality": 1.191225953,
+      "Deaths": 0.1944168,
+      "Vaccinations": 31.5979495
+    },
+    {
+      "continent": "North America",
+      "location": "El Salvador",
+      "Cases": 43187400,
+      "T_Deaths": 1310482,
+      "T_Vaccinations": 790445287,
+      "Fatality": 3.034408184,
+      "Deaths": 0.1310482,
+      "Vaccinations": 7.90445287
+    },
+    {
+      "continent": "North America",
+      "location": "Greenland",
+      "Cases": 632979,
+      "T_Deaths": 288,
+      "T_Vaccinations": 6086336,
+      "Fatality": 0.04549914,
+      "Deaths": 0.0000288,
+      "Vaccinations": 0.06086336
+    },
+    {
+      "continent": "North America",
+      "location": "Grenada",
+      "Cases": 1274555,
+      "T_Deaths": 30936,
+      "T_Vaccinations": 2536192,
+      "Fatality": 2.427200082,
+      "Deaths": 0.0030936,
+      "Vaccinations": 0.02536192
+    },
+    {
+      "continent": "North America",
+      "location": "Guatemala",
+      "Cases": 185211330,
+      "T_Deaths": 5173394,
+      "T_Vaccinations": 1803693348,
+      "Fatality": 2.793238405,
+      "Deaths": 0.5173394,
+      "Vaccinations": 18.03693348
+    },
+    {
+      "continent": "North America",
+      "location": "Haiti",
+      "Cases": 9723532,
+      "T_Deaths": 248313,
+      "T_Vaccinations": 3775423,
+      "Fatality": 2.553732533,
+      "Deaths": 0.0248313,
+      "Vaccinations": 0.03775423
+    },
+    {
+      "continent": "North America",
+      "location": "Honduras",
+      "Cases": 133937041,
+      "T_Deaths": 3577748,
+      "T_Vaccinations": 212265802,
+      "Fatality": 2.671216247,
+      "Deaths": 0.3577748,
+      "Vaccinations": 2.12265802
+    },
+    {
+      "continent": "North America",
+      "location": "Jamaica",
+      "Cases": 27694943,
+      "T_Deaths": 617772,
+      "T_Vaccinations": 145423809,
+      "Fatality": 2.230631058,
+      "Deaths": 0.0617772,
+      "Vaccinations": 1.45423809
+    },
+    {
+      "continent": "North America",
+      "location": "Mexico",
+      "Cases": 1434281752,
+      "T_Deaths": 116795735,
+      "T_Vaccinations": 23674108576,
+      "Fatality": 8.14315143,
+      "Deaths": 11.6795735,
+      "Vaccinations": 236.7410858
+    },
+    {
+      "continent": "North America",
+      "location": "Montserrat",
+      "Cases": 20568,
+      "T_Deaths": 687,
+      "T_Vaccinations": 83449,
+      "Fatality": 3.340140023,
+      "Deaths": 0.0000687,
+      "Vaccinations": 0.00083449
+    },
+    {
+      "continent": "North America",
+      "location": "Nicaragua",
+      "Cases": 5646611,
+      "T_Deaths": 109821,
+      "T_Vaccinations": 121386727,
+      "Fatality": 1.94490111,
+      "Deaths": 0.0109821,
+      "Vaccinations": 1.21386727
+    },
+    {
+      "continent": "North America",
+      "location": "Panama",
+      "Cases": 205593905,
+      "T_Deaths": 3243208,
+      "T_Vaccinations": 1168836207,
+      "Fatality": 1.577482562,
+      "Deaths": 0.3243208,
+      "Vaccinations": 11.68836207
+    },
+    {
+      "continent": "North America",
+      "location": "Saint Kitts and Nevis",
+      "Cases": 619440,
+      "T_Deaths": 4532,
+      "T_Vaccinations": 2938535,
+      "Fatality": 0.731628568,
+      "Deaths": 0.0004532,
+      "Vaccinations": 0.02938535
+    },
+    {
+      "continent": "North America",
+      "location": "Saint Lucia",
+      "Cases": 3554286,
+      "T_Deaths": 61433,
+      "T_Vaccinations": 11938758,
+      "Fatality": 1.728420279,
+      "Deaths": 0.0061433,
+      "Vaccinations": 0.11938758
+    },
+    {
+      "continent": "North America",
+      "location": "Saint Pierre and Miquelon",
+      "Cases": 51284,
+      "T_Deaths": 23,
+      "T_Vaccinations": 0,
+      "Fatality": 0.044848296,
+      "Deaths": 0.0000023,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "North America",
+      "location": "Saint Vincent and the Grenadines",
+      "Cases": 1397139,
+      "T_Deaths": 13695,
+      "T_Vaccinations": 2980858,
+      "Fatality": 0.98021743,
+      "Deaths": 0.0013695,
+      "Vaccinations": 0.02980858
+    },
+    {
+      "continent": "North America",
+      "location": "Trinidad and Tobago",
+      "Cases": 18913444,
+      "T_Deaths": 531987,
+      "T_Vaccinations": 266156892,
+      "Fatality": 2.812745262,
+      "Deaths": 0.0531987,
+      "Vaccinations": 2.66156892
+    },
+    {
+      "continent": "North America",
+      "location": "Turks and Caicos Islands",
+      "Cases": 1274731,
+      "T_Deaths": 9223,
+      "T_Vaccinations": 811177,
+      "Fatality": 0.723525199,
+      "Deaths": 0.0009223,
+      "Vaccinations": 0.00811177
+    },
+    {
+      "continent": "North America",
+      "location": "United States",
+      "Cases": 18811397264,
+      "T_Deaths": 319062717,
+      "T_Vaccinations": 136343000000,
+      "Fatality": 1.696113864,
+      "Deaths": 31.9062717,
+      "Vaccinations": 1363.433235
+    },
+    {
+      "continent": "Oceania",
+      "location": "Australia",
+      "Cases": 150963188,
+      "T_Deaths": 753309,
+      "T_Vaccinations": 7861897759,
+      "Fatality": 0.499001783,
+      "Deaths": 0.0753309,
+      "Vaccinations": 78.61897759
+    },
+    {
+      "continent": "Oceania",
+      "location": "Cook Islands",
+      "Cases": 362,
+      "T_Deaths": 0,
+      "T_Vaccinations": 313870,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0.0031387
+    },
+    {
+      "continent": "Oceania",
+      "location": "Fiji",
+      "Cases": 11391524,
+      "T_Deaths": 137072,
+      "T_Vaccinations": 35291037,
+      "Fatality": 1.203280615,
+      "Deaths": 0.0137072,
+      "Vaccinations": 0.35291037
+    },
+    {
+      "continent": "Oceania",
+      "location": "French Polynesia",
+      "Cases": 14037290,
+      "T_Deaths": 151822,
+      "T_Vaccinations": 8915915,
+      "Fatality": 1.081562039,
+      "Deaths": 0.0151822,
+      "Vaccinations": 0.08915915
+    },
+    {
+      "continent": "Oceania",
+      "location": "Kiribati",
+      "Cases": 51783,
+      "T_Deaths": 101,
+      "T_Vaccinations": 756535,
+      "Fatality": 0.195044706,
+      "Deaths": 0.0000101,
+      "Vaccinations": 0.00756535
+    },
+    {
+      "continent": "Oceania",
+      "location": "Marshall Islands",
+      "Cases": 2031,
+      "T_Deaths": 0,
+      "T_Vaccinations": 0,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "Oceania",
+      "location": "Micronesia (country)",
+      "Cases": 399,
+      "T_Deaths": 0,
+      "T_Vaccinations": 0,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "Oceania",
+      "location": "New Caledonia",
+      "Cases": 2428073,
+      "T_Deaths": 39861,
+      "T_Vaccinations": 9781918,
+      "Fatality": 1.641672223,
+      "Deaths": 0.0039861,
+      "Vaccinations": 0.09781918
+    },
+    {
+      "continent": "Oceania",
+      "location": "New Zealand",
+      "Cases": 3092610,
+      "T_Deaths": 19305,
+      "T_Vaccinations": 1262237118,
+      "Fatality": 0.624230019,
+      "Deaths": 0.0019305,
+      "Vaccinations": 12.62237118
+    },
+    {
+      "continent": "Oceania",
+      "location": "Palau",
+      "Cases": 80860,
+      "T_Deaths": 53,
+      "T_Vaccinations": 0,
+      "Fatality": 0.065545387,
+      "Deaths": 0.0000053,
+      "Vaccinations": 0
+    },
+    {
+      "continent": "Oceania",
+      "location": "Papua New Guinea",
+      "Cases": 7958811,
+      "T_Deaths": 105136,
+      "T_Vaccinations": 7752553,
+      "Fatality": 1.321001341,
+      "Deaths": 0.0105136,
+      "Vaccinations": 0.07752553
+    },
+    {
+      "continent": "Oceania",
+      "location": "Samoa",
+      "Cases": 2230,
+      "T_Deaths": 0,
+      "T_Vaccinations": 4810126,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0.04810126
+    },
+    {
+      "continent": "Oceania",
+      "location": "Solomon Islands",
+      "Cases": 112908,
+      "T_Deaths": 1237,
+      "T_Vaccinations": 3536055,
+      "Fatality": 1.095582244,
+      "Deaths": 0.0001237,
+      "Vaccinations": 0.03536055
+    },
+    {
+      "continent": "Oceania",
+      "location": "Tonga",
+      "Cases": 2652,
+      "T_Deaths": 0,
+      "T_Vaccinations": 1826899,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0.01826899
+    },
+    {
+      "continent": "Oceania",
+      "location": "Vanuatu",
+      "Cases": 1830,
+      "T_Deaths": 309,
+      "T_Vaccinations": 2026013,
+      "Fatality": 16.8852459,
+      "Deaths": 0.0000309,
+      "Vaccinations": 0.02026013
+    },
+    {
+      "continent": "Oceania",
+      "location": "Wallis and Futuna",
+      "Cases": 155779,
+      "T_Deaths": 2268,
+      "T_Vaccinations": 326855,
+      "Fatality": 1.455908691,
+      "Deaths": 0.0002268,
+      "Vaccinations": 0.00326855
+    },
+    {
+      "continent": "South America",
+      "location": "Argentina",
+      "Cases": 2008139750,
+      "T_Deaths": 42008641,
+      "T_Vaccinations": 13460090683,
+      "Fatality": 2.091918204,
+      "Deaths": 4.2008641,
+      "Vaccinations": 134.6009068
+    },
+    {
+      "continent": "South America",
+      "location": "Bolivia",
+      "Cases": 210512990,
+      "T_Deaths": 8023860,
+      "T_Vaccinations": 1935807980,
+      "Fatality": 3.811574763,
+      "Deaths": 0.802386,
+      "Vaccinations": 19.3580798
+    },
+    {
+      "continent": "South America",
+      "location": "Brazil",
+      "Cases": 8453174166,
+      "T_Deaths": 230639323,
+      "T_Vaccinations": 65802154617,
+      "Fatality": 2.728434532,
+      "Deaths": 23.0639323,
+      "Vaccinations": 658.0215462
+    },
+    {
+      "continent": "South America",
+      "location": "Chile",
+      "Cases": 707318736,
+      "T_Deaths": 15672095,
+      "T_Vaccinations": 10385691392,
+      "Fatality": 2.215704774,
+      "Deaths": 1.5672095,
+      "Vaccinations": 103.8569139
+    },
+    {
+      "continent": "South America",
+      "location": "Colombia",
+      "Cases": 1850926242,
+      "T_Deaths": 47234029,
+      "T_Vaccinations": 9596369550,
+      "Fatality": 2.551913087,
+      "Deaths": 4.7234029,
+      "Vaccinations": 95.9636955
+    },
+    {
+      "continent": "South America",
+      "location": "Ecuador",
+      "Cases": 219875808,
+      "T_Deaths": 12883777,
+      "T_Vaccinations": 5115294604,
+      "Fatality": 5.859570053,
+      "Deaths": 1.2883777,
+      "Vaccinations": 51.15294604
+    },
+    {
+      "continent": "South America",
+      "location": "Falkland Islands",
+      "Cases": 31416,
+      "T_Deaths": 0,
+      "T_Vaccinations": 14163,
+      "Fatality": 0,
+      "Deaths": 0,
+      "Vaccinations": 0.00014163
+    },
+    {
+      "continent": "South America",
+      "location": "Guyana",
+      "Cases": 11275654,
+      "T_Deaths": 268537,
+      "T_Vaccinations": 48185150,
+      "Fatality": 2.381564741,
+      "Deaths": 0.0268537,
+      "Vaccinations": 0.4818515
+    },
+    {
+      "continent": "South America",
+      "location": "Paraguay",
+      "Cases": 164814277,
+      "T_Deaths": 5007471,
+      "T_Vaccinations": 365765372,
+      "Fatality": 3.038250746,
+      "Deaths": 0.5007471,
+      "Vaccinations": 3.65765372
+    },
+    {
+      "continent": "South America",
+      "location": "Peru",
+      "Cases": 986864209,
+      "T_Deaths": 89091239,
+      "T_Vaccinations": 8261089545,
+      "Fatality": 9.027710012,
+      "Deaths": 8.9091239,
+      "Vaccinations": 82.61089545
+    },
+    {
+      "continent": "South America",
+      "location": "Suriname",
+      "Cases": 13647711,
+      "T_Deaths": 288363,
+      "T_Vaccinations": 66462271,
+      "Fatality": 2.112903768,
+      "Deaths": 0.0288363,
+      "Vaccinations": 0.66462271
+    },
+    {
+      "continent": "South America",
+      "location": "Uruguay",
+      "Cases": 133502055,
+      "T_Deaths": 1832342,
+      "T_Vaccinations": 1713110563,
+      "Fatality": 1.372519696,
+      "Deaths": 0.1832342,
+      "Vaccinations": 17.13110563
+    },
+    {
+      "continent": "South America",
+      "location": "Venezuela",
+      "Cases": 137613668,
+      "T_Deaths": 1541689,
+      "T_Vaccinations": 309273862,
+      "Fatality": 1.120302236,
+      "Deaths": 0.1541689,
+      "Vaccinations": 3.09273862
+    }
+    ]
